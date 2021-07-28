@@ -8,6 +8,6 @@ Team 21's repository for CS 4641 - working with climate change.
 Team Members' emails:
 Rachel Allgaier - rallgaier3@gatech.edu,
 Nyimul Hoque - nhoque3@gatech.edu,
-Emir İbrisimovic - eibrisimovic6@gatech.edu,
+Emir İbrisimovic - emirmovic@gatech.edu,
 Arnovi Moinuddin - amoinuddin6@gatech.edu,
 Elizabeth Perego - eperego3@gatech.edu
